@@ -1,0 +1,15 @@
+{
+  "name": "@schascha/stylint-config",
+  "version": "0.0.1",
+  "description": "Just a custom stylint config",
+  "main": "index.js",
+  "author": "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)",
+  "license": "MIT",
+  "funding": "https://www.paypal.me/LosZahlos",
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^7.1.0",
+  },
+  "peerDependencies": {
+    "stylelint": "^13.8.0"
+  },
+}
