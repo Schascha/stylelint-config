@@ -4,6 +4,8 @@
 
 ## Installation
 
+[npm](https://www.npmjs.com/package/@schascha/stylint-config)
+
 ```
 npm install @schascha/stylint-config --save-dev
 ```
