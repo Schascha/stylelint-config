@@ -7,9 +7,9 @@
   "license": "MIT",
   "funding": "https://www.paypal.me/LosZahlos",
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^7.1.0",
+    "stylelint-config-sass-guidelines": "^7.1.0"
   },
   "peerDependencies": {
     "stylelint": "^13.8.0"
-  },
+  }
 }
