@@ -4,6 +4,7 @@ module.exports = {
 	extends: 'stylelint-config-sass-guidelines',
 	rules: {
 		'indentation': 'tab',
+		'max-empty-lines': 1,
 		'order/properties-alphabetical-order': null,
 		'order/properties-order': [
 			'animation',
@@ -148,6 +149,16 @@ module.exports = {
 			'word-spacing',
 			'word-wrap'
 		],
-		'selector-no-qualifying-type': [true, {'ignore': 'attribute'}]
+		'selector-max-empty-lines': 0,
+		'selector-no-qualifying-type': [
+			true,
+			{
+				'ignore': [
+					'attribute',
+					'class'
+				]
+			}
+		],
+		'value-list-max-empty-lines': 0
 	}
 }
