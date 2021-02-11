@@ -5,6 +5,18 @@ module.exports = {
 	rules: {
 		'indentation': 'tab',
 		'max-empty-lines': 1,
+		'selector-max-empty-lines': 0,
+		'selector-no-qualifying-type': [
+			true,
+			{
+				'ignore': [
+					'attribute',
+					'class'
+				]
+			}
+		],
+		'value-list-max-empty-lines': 0,
+		
 		'order/properties-alphabetical-order': null,
 		'order/properties-order': [
 			'animation',
@@ -148,17 +160,6 @@ module.exports = {
 			'word-break',
 			'word-spacing',
 			'word-wrap'
-		],
-		'selector-max-empty-lines': 0,
-		'selector-no-qualifying-type': [
-			true,
-			{
-				'ignore': [
-					'attribute',
-					'class'
-				]
-			}
-		],
-		'value-list-max-empty-lines': 0
+		]
 	}
 }

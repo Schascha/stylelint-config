@@ -1,18 +1,23 @@
 {
-  "name": "@schascha/stylint-config",
+  "name": "@schascha/stylelint-config",
   "version": "0.0.1",
-  "description": "Just a custom stylint config",
+  "description": "Just a custom stylelint config",
   "main": "index.js",
   "author": "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)",
   "license": "MIT",
+  "keywords": [
+	"stylelint",
+	"stylelint-config"
+  ],
   "funding": "https://www.paypal.me/LosZahlos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Schascha/stylint-config"
+    "url": "https://github.com/Schascha/stylelint-config"
   },
   "bugs": {
-    "url": "https://github.com/Schascha/stylint-config/issues"
+    "url": "https://github.com/Schascha/stylelint-config/issues"
   },
+  "homepage": "https://github.com/Schascha/stylelint-config#readme",
   "dependencies": {
     "stylelint-config-sass-guidelines": "^7.1.0"
   },

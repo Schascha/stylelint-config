@@ -1,13 +1,13 @@
-# stylint-config
+# stylelint-config
 
-> Just a custom stylint config
+> Just a custom stylelint config
 
 ## Installation
 
-[npm](https://www.npmjs.com/package/@schascha/stylint-config)
+[npm](https://www.npmjs.com/package/@schascha/stylelint-config)
 
 ```
-npm install @schascha/stylint-config --save-dev
+npm install @schascha/stylelint-config --save-dev
 ```
 
 ### Usage
@@ -16,15 +16,15 @@ Set your `stylelint` config to:
 
 ```
 {
-  "extends": "@schascha/stylint-config"
+  "extends": "@schascha/stylelint-config"
 }
 ```
 
 ## Bugs?
 
-Please let me know: https://github.com/Schascha/stylint-config/issues
+Please let me know: https://github.com/Schascha/stylelint-config/issues
 
-## :coffee: Buy me a Coffee
+## Buy me a Coffee :coffee:
 
 Support this project and [others](https://github.com/Schascha?tab=repositories) via [PayPal](https://www.paypal.me/LosZahlos). Thanks
 
