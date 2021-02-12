@@ -1,13 +1,13 @@
 {
   "name": "@schascha/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just a custom stylelint config",
   "main": "index.js",
   "author": "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)",
   "license": "MIT",
   "keywords": [
-	"stylelint",
-	"stylelint-config"
+    "stylelint",
+    "stylelint-config"
   ],
   "funding": "https://www.paypal.me/LosZahlos",
   "repository": {
