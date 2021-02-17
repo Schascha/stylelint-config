@@ -5,6 +5,7 @@ module.exports = {
 	rules: {
 		'indentation': 'tab',
 		'max-empty-lines': 1,
+		'max-nesting-depth': 3,
 		'selector-max-empty-lines': 0,
 		'selector-no-qualifying-type': [
 			true,
@@ -16,7 +17,7 @@ module.exports = {
 			}
 		],
 		'value-list-max-empty-lines': 0,
-		
+
 		'order/properties-alphabetical-order': null,
 		'order/properties-order': [
 			'animation',
