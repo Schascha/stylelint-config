@@ -9,7 +9,7 @@
 [npm](https://www.npmjs.com/package/@schascha/stylelint-config)
 
 ```
-npm install @schascha/stylelint-config --save-dev
+npm install --save-dev @schascha/stylelint-config stylelint
 ```
 
 ### Usage
