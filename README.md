@@ -1,5 +1,7 @@
 # stylelint-config
 
+![Build Status](https://github.com/Schascha/stylelint-configworkflows/Build/badge.svg)
+
 > Just a custom stylelint config
 
 ## Installation
