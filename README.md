@@ -1,6 +1,7 @@
 # stylelint-config
 
-![Build Status](https://github.com/Schascha/stylelint-config/workflows/Build/badge.svg)
+[![Build](https://github.com/Schascha/stylelint-config/workflows/Build/badge.svg)](https://github.com/Schascha/stylelint-config/actions)
+[![npm](https://img.shields.io/npm/v/@schascha/stylelint-config)](https://www.npmjs.com/package/@schascha/stylelint-config)
 
 > Just a custom stylelint config
 
@@ -22,7 +23,7 @@ Set your `stylelint` config to:
 }
 ```
 
-## Bugs?
+## Bugs? :bug:
 
 Please let me know: https://github.com/Schascha/stylelint-config/issues
 
