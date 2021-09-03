@@ -18,13 +18,16 @@
     "url": "https://github.com/Schascha/stylelint-config/issues"
   },
   "homepage": "https://github.com/Schascha/stylelint-config#readme",
+  "scripts": {
+    "test": "stylelint \"./tests/**/*.{css,scss}\" --config index.js"
+  },
   "dependencies": {
     "stylelint-config-sass-guidelines": "^8.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^13.8.0"
+    "stylelint": "^13.13.1"
   },
   "devDependencies": {
-    "postcss": "^8.2.15"
+    "stylelint": "^13.13.1"
   }
 }
