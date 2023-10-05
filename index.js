@@ -2,6 +2,9 @@
 
 module.exports = {
 	extends: 'stylelint-config-sass-guidelines',
+	plugins: [
+		'stylelint-order'
+	],
 	rules: {
 		'max-nesting-depth': 4,
 		'selector-max-compound-selectors': 4,
@@ -50,6 +53,7 @@ module.exports = {
 			'flex',
 			'flex-basis',
 			'flex-direction',
+			'flex-flow',
 			'flex-grow',
 			'flex-shrink',
 			'flex-wrap',
@@ -66,6 +70,7 @@ module.exports = {
 			'grid-gap',
 			'grid-row-gap',
 			'grid-column-gap',
+			'gap',
 			'align-self',
 			'align-content',
 			'align-items',

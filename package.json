@@ -22,7 +22,8 @@
     "test": "stylelint \"./tests/**/*.{css,scss}\" --config index.js"
   },
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^10.0.0"
+    "stylelint-config-sass-guidelines": "^10.0.0",
+    "stylelint-order": "^6.0.3"
   },
   "peerDependencies": {
     "stylelint": "^15.2.0"
