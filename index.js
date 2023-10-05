@@ -3,11 +3,8 @@
 module.exports = {
 	extends: 'stylelint-config-sass-guidelines',
 	rules: {
-		'indentation': 'tab',
-		'max-empty-lines': 1,
 		'max-nesting-depth': 4,
 		'selector-max-compound-selectors': 4,
-		'selector-max-empty-lines': 0,
 		'selector-no-qualifying-type': [
 			true,
 			{
@@ -17,8 +14,6 @@ module.exports = {
 				]
 			}
 		],
-		'value-list-max-empty-lines': 0,
-
 		'order/properties-alphabetical-order': null,
 		'order/properties-order': [
 			'animation',
