@@ -1,6 +1,6 @@
 {
   "name": "@schascha/stylelint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Just a custom stylelint config",
   "main": "index.js",
   "files": [
@@ -11,7 +11,7 @@
   "keywords": [
     "stylelint",
     "stylelint-config",
-	"tailwindcss"
+    "tailwindcss"
   ],
   "funding": "https://www.paypal.me/LosZahlos",
   "repository": {
