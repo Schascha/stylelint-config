@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "description": "Just a custom stylelint config",
   "main": "index.js",
+  "files": [
+    "tailwindcss"
+  ],
   "author": "Sascha Künstler <contact.schascha@gmail.com> (https://www.schaschaweb.de)",
   "license": "MIT",
   "keywords": [
     "stylelint",
-    "stylelint-config"
+    "stylelint-config",
+	"tailwindcss"
   ],
   "funding": "https://www.paypal.me/LosZahlos",
   "repository": {

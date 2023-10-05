@@ -23,6 +23,14 @@ Set your `stylelint` config to:
 }
 ```
 
+#### TailwindCSS
+
+```
+{
+  "extends": "@schascha/stylelint-config/tailwindcss"
+}
+```
+
 ## Bugs? :bug:
 
 Please let me know: https://github.com/Schascha/stylelint-config/issues
