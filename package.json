@@ -26,13 +26,13 @@
     "test": "stylelint \"./tests/**/*.{css,scss}\" --config index.js"
   },
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^10.0.0",
-    "stylelint-order": "^6.0.3"
+    "stylelint-config-sass-guidelines": "^11.0.0",
+    "stylelint-order": "^6.0.4"
   },
   "peerDependencies": {
-    "stylelint": "^15.2.0"
+    "stylelint": ">=15.10.1"
   },
   "devDependencies": {
-    "stylelint": "^15.2.0"
+    "stylelint": "^16.1.0"
   }
 }
